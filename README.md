@@ -1,1 +1,1 @@
-Projto de estudo com html, css e javascript
+Projeto de estudo com html, css e javascript
